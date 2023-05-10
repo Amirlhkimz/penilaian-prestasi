@@ -43,7 +43,7 @@ const MASS_TO_KILOGRAM = array(
   "long_tons" =>	1016.05,
   "short_tons" =>	907.185,
   "milligrams" =>	0.000001,
-  "grams" =>	0.01,
+  "grams" =>	0.001,
   "kilograms" =>	1,
   "metric_tonnes" =>	1000
 );
